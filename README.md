@@ -105,21 +105,7 @@ Responsive personal portfolio website created to showcase projects, technical sk
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="./output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-> **Note:** The snake section is ready for the optional GitHub Action setup. If you want a truly zero-setup README, remove this section until the SVG files exist.
-
----
 
 ## 🤝 Connect With Me
 
