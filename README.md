@@ -3,10 +3,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img alt="Sujan Samanta — Software Developer" src="./dark.svg">
+  <img src="./dark.svg" alt="Sujan Samanta — Software Developer">
 </picture>
 
-<br>
+</div>
 
 ### Software Developer • Building practical web & AI projects • Open to Work
 
